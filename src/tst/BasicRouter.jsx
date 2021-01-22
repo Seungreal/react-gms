@@ -1,6 +1,6 @@
 import React from 'react'
 import {BrowserRouter as Router,Switch,Route,Link} from 'react-router-dom'
-import About from "../cmm/pages/About"
+import About from "./components/About"
 import Home from "../cmm/pages/Home"
 import Users from '../uss/pages/Users'
 

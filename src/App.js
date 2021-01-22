@@ -1,9 +1,9 @@
 import './App.css';
-import Home from './cmm/pages/Home'
+import {Main} from './tst/pages'
 
 function App() {
   return (
-    <Home/>
+    <Main/>
   );
 }
 
